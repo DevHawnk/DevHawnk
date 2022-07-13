@@ -6,12 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHawnk&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHawnk&layout=compact&langs_count=7&theme=react" />
   </div>
-  <div>
-  <img align="center" width="148" height="180" src="https://c.tenor.com/QyKpNDRCLaMAAAAd/pingu-stare.gif" />
-  </div>
-
-##
-
+  
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
