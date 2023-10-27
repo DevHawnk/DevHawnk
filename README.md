@@ -1,5 +1,33 @@
- Hi there 👋
- I am 29 years old, I am an enthusiast in the field of IT and I try to professionalize and work in the field that I am so passionate about. I am very interested
+<img align="left" alt="" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Pixel_art_Wizard_Portrait.png"><h1>Ola</h1> 
+
+<p style="font-family: 'Courier New', monospace; font-size: 16px; line-height: 1.5;">
+Meu nome é Wesley Souza e sou um programador frontend com 30 anos de idade e 12 anos de experiência na área administrativa.
+Sempre tive o sonho de ser programador, mas o medo de não conseguir pagar as contas me impedia de me dedicar totalmente à área.
+Nos últimos três anos, decidi finalmente me dedicar ao estudo da programação. Comecei focando no backend, mas senti uma enorme dificuldade para entrar na área.
+Então, voltei à base de tudo e comecei a estudar frontend.
+Há cerca de 9 meses, estou focado no frontend e restruturando meu portfolio e minhas redes de contato para que assim possa ter uma carreira concisa e bem estruturada.
+Estou empenhado e focado neste objetivo. 
+</p>
+
+##
+
+<img align="right" alt="" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/potion-permit/images/2/28/Approval_Badge_2.png/revision/latest/scale-to-width/360?cb=20221006183658&path-prefix=pt-br">
+<h6>Eng</h6>
+<p>Hello
+My name is Wesley Souza, and I'm a frontend developer with 30 years of experience in administrative work.
+I've always dreamed of being a developer, but my fear of not being able to make ends meet prevented me from fully committing to the field.
+In the past three years, I finally decided to dedicate myself to studying programming. I started by focusing on backend development, but I found it very difficult to break into the field.
+So, I went back to basics and started studying frontend development.
+For the past 9 months, I've been focused on frontend development and restructuring my portfolio and network so that I can have a concise and well-structured career.
+I'm committed and focused on this goal.</p>
+
+
+
+<h1>Habilidades:</h1>
+
+<h3>Linguagem:</h3> JavaScript, React, React Native
+<h3>Frameworks:</h3> Next.js, Material UI, Redux
+<h3>Ferramentas:</h3> Git, GitHub, VS Code
  
  
  
