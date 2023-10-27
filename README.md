@@ -48,7 +48,7 @@ I'm committed and focused on this goal.</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript"  />
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/6ba01930-51d2-4ed4-9dc0-9e8f768d918e" height="40" width="42" alt="Java"  />
  <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw=w240-h480-rw" height="40" width="42" alt="SpringBoot"  /><br/> <br/> 
- <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/5457a4e6-ef3e-4fca-ac06-26cca6ee8acd" height="40" width="42" alt="react"  />  
+ <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/5457a4e6-ef3e-4fca-ac06-26cca6ee8acd" height="40" width="42" alt="react"  /> <br/> <br/>  
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/81d48e0a-216c-4dde-84a6-18f4cb9a199a" height="40" width="42" alt="git"  />
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/d93b21d3-6990-4e79-a0fd-802272e79530" height="40" width="42" alt="github"  /> 
   
