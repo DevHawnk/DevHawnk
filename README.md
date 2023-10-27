@@ -25,8 +25,8 @@ I'm committed and focused on this goal.</p>
 
 <h1>Habilidades:</h1>
 
-<h3>Linguagem:</h3> JavaScript, React, React Native
-<h3>Frameworks:</h3> Next.js, Material UI, Redux
+<h3>Linguagem:</h3> Html, Css, JavaScript, React, 
+<h3>Frameworks:</h3>  Material UI, Redux
 <h3>Ferramentas:</h3> Git, GitHub, VS Code
  
  
