@@ -45,10 +45,13 @@ I'm committed and focused on this goal.</p>
 
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/99a16ba0-6c3a-4b2e-b7d3-b358e55ead0f" height="40" width="42" alt="html"  />
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/05885142-41c6-45f1-9959-629e9ef56c72" height="40" width="42" alt="Css"  /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript"  /><br/> <br/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript"  />
+ <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/6ba01930-51d2-4ed4-9dc0-9e8f768d918e" height="40" width="42" alt="Java"  />
+ <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw=w240-h480-rw" height="40" width="42" alt="SpringBoot"  /><br/> <br/> 
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/5457a4e6-ef3e-4fca-ac06-26cca6ee8acd" height="40" width="42" alt="react"  />  
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/81d48e0a-216c-4dde-84a6-18f4cb9a199a" height="40" width="42" alt="git"  />
  <img src="https://github.com/DevHawnk/DevHawnk/assets/103498566/d93b21d3-6990-4e79-a0fd-802272e79530" height="40" width="42" alt="github"  /> 
+  
 
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/ext_tw_video_thumb/1531354669510967296/pu/img/U4jKVl91u_VkyvSl.jpg">
   </div>
